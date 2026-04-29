@@ -89,13 +89,7 @@ Optimized using:
 |-------------------------------|
 | ![](results/results.png)  |
 
-## ▶️ How to Run
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/Balamurugan-Mani04/Brain-MRI-Registration-NSGA.git
-
-pip install -r requirements.txt
 
 ## 📦 Reproducibility
 
@@ -130,3 +124,11 @@ If you use this work, please cite:
   url={https://github.com/Balamurugan-Mani04/Brain-MRI-Registration-NSGA}
 }
 ```
+
+## ▶️ How to Run
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/Balamurugan-Mani04/Brain-MRI-Registration-NSGA.git
+
+pip install -r requirements.txt
